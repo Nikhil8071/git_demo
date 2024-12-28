@@ -56,12 +56,4 @@ insert into membership_type values(2,'Basic Annual',	'Unlimited rides with non-e
 insert into membership_type values(3,'Premium Monthly',	'Unlimited rides with all bikes. Renews monthly.',	200.00);
 
 
-insert into membership values(1,	2,	3,	'2023-08-01',	'2023-08-31',	500.00);
-insert into membership values(2,	1,	2,	'2023-08-01',	'2023-08-31',	100.00);
-insert into membership values(3,	3,	4,	'2023-08-01',	'2023-08-31',	200.00);
-insert into membership values(4,	1,	1,	'2023-09-01',	'2023-09-30',	100.00);
-insert into membership values(5,	2,	2,	'2023-09-01',	'2023-09-30',	500.00);
-insert into membership values(6,	3,	3,	'2023-09-01',	'2023-09-30',	200.00);
-insert into membership values(7,	1,	4,	'2023-10-01',	'2023-10-31',	100.00);
-insert into membership values(8,	2,	5,	'2023-10-01',	'2023-10-31',	500.00);
-insert into membership values(9,	3,	3,	'2023-10-01',	'2023-10-31',	200.00);
+
